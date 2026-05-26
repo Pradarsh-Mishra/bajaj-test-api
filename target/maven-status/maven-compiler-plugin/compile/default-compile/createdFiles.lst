@@ -1,0 +1,3 @@
+com\example\helloapi\service\HelloService.class
+com\example\helloapi\HelloApiApplication.class
+com\example\helloapi\controller\HelloController.class
